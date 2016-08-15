@@ -1,0 +1,64 @@
+
+
+@media only screen 
+  and (min-device-width: 414px) 
+  and (max-device-width: 736px) 
+  and (-webkit-min-device-pixel-ratio: 3)
+  and (orientation: portrait) { 
+  
+ header h3{
+    float: left;
+    font-size: 115%;
+    margin: 3%;
+}
+  }
+  .menu li a{
+      font-size: 60%;
+  }
+  .menu{
+    float: left;
+    list-style-type: none;
+    width: -29%;
+    margin-top: 3%
+  }
+  .menuImg{
+  height:56%;
+  width:100%;
+  }
+  .secondContainer .Img {
+    float: none;
+    width: 74%;
+    margin-top: 47%;
+    margin-right: 10%;
+    }
+    .secondContainer .LImg {
+    float: none;
+    width: 149%;
+    margin-top: 21%;
+    margin-right: 10%;
+    }
+    .leftSide{
+    float: none;
+    width: 94%;
+    line-height: 178%;
+    padding: 0% 0% 0% 0%;
+    margin-bottom: 7%;
+    overflow: hidden;
+    }
+    .categories{
+    line-height: 0%;
+    display: inline-block;
+    float: none;
+    width: 100%;
+    margin: 0%;
+    padding: 0% 0% 0% 0%;
+    }
+    .Side1 .Side2 .Side3{
+    float: none;
+    width: 300px;
+  }
+  }
+  
+  
+  
+  
